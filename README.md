@@ -18,5 +18,5 @@ Better to use the module based on Apache POI [fj-doc-mod-poi](https://github.com
   
   
 *Quickstart* :  
-Basically this is only a type handler, see core library [fj-doc-base](../fj-doc-base/README.md).  
+Basically this is only a type handler, see core library [fj-doc-base](https://github.com/fugerit-org/fj-doc.git).  
 NOTE: If you have any special need you can open a pull request or create your own handler based on this.
