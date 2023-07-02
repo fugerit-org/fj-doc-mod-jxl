@@ -7,13 +7,13 @@
 	<parent>
 		<groupId>org.fugerit.java</groupId>
 		<artifactId>fj-doc</artifactId>
-		<version>0.4.2</version>
+		<version>1.1.0-rc.001</version>
 		<relativePath></relativePath>
 	</parent>
 
 	<name>fj-doc-mod-jxl</name>
 	<description>Fugerit DOC module for output in XLS based on jexcelapi</description>
-	<version>0.4.2-sa</version>
+	<version>0.5.0-rc.001</version>
 
 	<licenses>
 		<license>
