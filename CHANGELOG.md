@@ -1,7 +1,7 @@
 # Changelog for project fj-doc-mod-jxl
 
-1.0.0-sa.2 - 2023-08-30
------------------------
+1.0.0 - 2023-08-30
+------------------
 * Update fj-doc version to 1.5.6
 * Added badges
 * Added sonar cloud action

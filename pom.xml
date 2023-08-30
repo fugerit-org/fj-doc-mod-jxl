@@ -13,7 +13,7 @@
 
 	<name>fj-doc-mod-jxl</name>
 	<description>Fugerit DOC module for output in XLS based on jexcelapi</description>
-	<version>1.0.0-sa.2</version>
+	<version>1.0.0</version>
 
 	<licenses>
 		<license>
