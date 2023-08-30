@@ -7,13 +7,13 @@
 	<parent>
 		<groupId>org.fugerit.java</groupId>
 		<artifactId>fj-doc</artifactId>
-		<version>1.1.0-rc.001</version>
+		<version>1.5.5</version>
 		<relativePath></relativePath>
 	</parent>
 
 	<name>fj-doc-mod-jxl</name>
 	<description>Fugerit DOC module for output in XLS based on jexcelapi</description>
-	<version>0.5.0-rc.001</version>
+	<version>1.0.0-sa.1</version>
 
 	<licenses>
 		<license>
@@ -26,6 +26,10 @@
 	<properties>
 		<fj-doc-version>${project.parent.version}</fj-doc-version>	
 		<jxl-version>2.6.12</jxl-version>
+	    <!-- sonar cloud configuration -->
+	    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+	    <sonar.organization>fugerit-org</sonar.organization>
+	    <sonar.projectKey>fugerit-org_fj-doc-mod-jxl</sonar.projectKey>				
 	</properties>
 	
 	<build>
