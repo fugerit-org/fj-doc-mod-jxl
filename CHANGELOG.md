@@ -12,12 +12,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - [workflow deploy on branch deploy](.github/workflows/deploy_maven_package.yml)
-* [Maven build workflow](.github/workflows/build_maven_package.yml)
+- [Maven build workflow](.github/workflows/build_maven_package.yml)
+- Sonar Cloud coverage badge
 
 ### Changed
 
 - exclusions for log4j dependencies (groupId : log4j)
 - fj-doc version set to 3.0.4
+
+### Security
+
+- [removed log4j vulnerabilities](https://github.com/fugerit-org/fj-doc-mod-jxl/security/dependabot/5)
 
 ## [1.0.0] - 2023-08-30
 
