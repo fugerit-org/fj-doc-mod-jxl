@@ -16,7 +16,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
-- exclusions for log4j dependencies (groupId : org.apache.logging.log4j)
+- exclusions for log4j dependencies (groupId : log4j)
 - fj-doc version set to 3.0.4
 
 ## [1.0.0] - 2023-08-30
